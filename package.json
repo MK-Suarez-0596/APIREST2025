@@ -2,14 +2,7 @@
   "name": "nodejs-express-sequelize-postgresql",
   "version": "1.0.0",
   "description": "Node.js Rest Apis with Express, Sequelize & PostgreSQL.",
-  "keywords": [
-    "nodejs",
-    "express",
-    "sequelize",
-    "postgresql",
-    "rest",
-    "api"
-  ],
+  "keywords": ["nodejs", "express", "sequelize", "postgresql", "rest", "api"],
   "license": "ISC",
   "author": "Universidad GT MK",
   "type": "commonjs",
